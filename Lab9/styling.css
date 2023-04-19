@@ -1,0 +1,10 @@
+* {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: aquamarine;
+    background-color: black;
+}
+
+h1 {
+    border-bottom:dotted;
+    border-color:grey;
+}
